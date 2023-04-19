@@ -1,6 +1,8 @@
 # RoughRepoPractice
-This I am doing rough Practice for understanding Github
+This I am doing rough Practice for understanding Git
+
 Imp Git commands which I should know are :
+
 1.Git clone
 2.GitIgnore
 3.Git remove
