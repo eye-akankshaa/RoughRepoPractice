@@ -1,7 +1,7 @@
 # RoughRepoPractice
-This I am doing rough Practice for understanding Git
+This I am doing rough Practice for understanding Git 
 
-Imp Git commands which I should know are :
+Important Git commands which I should know are :
 
 1.Git clone
 
